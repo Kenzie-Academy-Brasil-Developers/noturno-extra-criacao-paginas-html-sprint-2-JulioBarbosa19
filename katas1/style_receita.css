@@ -1,1 +1,38 @@
-/* FOLHA DE ESTILO DA PAGINA DE RECEITAS */
+.tituloPrincipal{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.tituloSecundario{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.receitas{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+img {
+    width: 250px;
+    height: 220px;
+}
+figcaption {
+    text-align: center;
+}
+.receita1{
+    margin: 10px;
+   
+}
+.receita2{
+    margin: 10px;
+}
+.receita3{
+    margin: 10px;
+}
+.linkReceita{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
+}

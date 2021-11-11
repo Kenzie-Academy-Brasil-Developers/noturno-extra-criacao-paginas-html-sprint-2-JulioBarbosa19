@@ -1,1 +1,36 @@
-/* FOLHA DE ESTILO DA PAGINA DE FORMULÁRIO */
+* {
+    margin: 0;
+    padding: 0;
+}
+.principal{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.formulario{
+    justify-content: center;
+    align-items: center;
+}
+.idadeopcoes{
+    display: flex;
+  
+}
+.caixatexto{
+    display: flex;
+}
+div {
+    margin: 10px;
+}
+.radioopcoes{
+    margin: 4px;
+}
+
+.options{
+    margin-left: 3px;
+}
+.titulo{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
